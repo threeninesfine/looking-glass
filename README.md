@@ -12,10 +12,12 @@ Unfortunately, cardrooms spreading live poker are geographically separated.
 Fortunately, cardrooms often publish information on key factors
 relevant for making the best decision for where to play.
 
+The looking-glass is a tool that queries publicly available websites
+Seattle area cardrooms publish on game statistics.
+
 # Description
 
-The looking-glass is a tool that queries publicly available websites
-Seattle area cardrooms publish on game statistics, which typically include:
+Relevant data collected includes
 
 + Game stakes (e.g. $1/$2 no-limit texas hold'em)
 + Number of tables
